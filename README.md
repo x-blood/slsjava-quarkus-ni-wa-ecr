@@ -1,13 +1,13 @@
 # Serverless Java17 Quarkus Web Adapter Container Example
 
-| -                             | -                        |
-|:------------------------------|--------------------------|
-| Java version                  | Java17                   |
-| Application Framework         | Quarkus 3.0.2.Final      |
-| Deployment Framework          | AWS SAM CLI 1.82.0       |
-| Development environment       | **Ubuntu Desktop 20.04** |
-| » JDK for build               | Corretto-17.0.7.7.1      |
-| » Container build environment | Docker Desktop 4.17.0    |
+| -                       | -                     |
+|:------------------------|-----------------------|
+| Java version            | Java17                |
+| Application Framework   | Quarkus 3.0.2.Final   |
+| Deployment Framework    | AWS SAM CLI 1.82.0    |
+| Development environment | Ubuntu Desktop 20.04  |
+| » JDK for local build   | Corretto-17.0.7.7.1   |
+| » Container build       | Docker Desktop 4.17.0 |
 
 ## Result of K6
 
